@@ -1,4 +1,4 @@
-[![MasterHead](https://42wolfsburg.de/wp-content/uploads/2021/08/1_CyuMA9NNfSsJ7yu7rGZL_A-e1629378913780-1024x546.jpeg)](https://github.com/Ambigatus)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)](https://github.com/Ambigatus)
 
 
 Greetings, I am a student at 42Wolfsburg. I'm studying the C programming language, in addition I'm learning Python. This repository contains all my projects. 

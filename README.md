@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1280"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="980" height="400"/>
 </div>
 
 Greetings, I am a student at 42Wolfsburg. I'm studying the C programming language, in addition I'm learning Python. This repository contains all my projects. 
